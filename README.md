@@ -1,1 +1,1 @@
-# project-fitness-app
+# React Fitness Application
